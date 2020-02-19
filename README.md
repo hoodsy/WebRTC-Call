@@ -1,4 +1,4 @@
-# streamfox-ui
+
 
 ## Project setup
 ```
